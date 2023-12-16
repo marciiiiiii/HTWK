@@ -1,0 +1,5 @@
+variable member type https://www.tutorialsteacher.com/python/public-private-protected-modifiers
+    public: x
+    protected: _x (put this in parentclass in order for childclasses to access)
+    private: __x
+
