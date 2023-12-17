@@ -1,6 +1,9 @@
 from Item import Item
-import pygame
 
+#@brief subclass of Item, see Item.py for all documentation
 class Bible(Item):
-    def __init__(self, posX, posY, imagePath, scoreChange, trashmeterChange, width, height):
-        super().__init__(posX, posY, imagePath, scoreChange, trashmeterChange, width, height)
+
+    #@brief calls base class constructor
+    #@param *args: as descriped in Item.py, passed as argument list
+    def __init__(self, *args):
+        super().__init__(*args)

@@ -1,6 +1,9 @@
 from Item import Item
-import pygame
 
+#@brief subclass of Item, see Item.py for all documentation
 class Fish(Item):
-    def __init__(self, posX, posY, scoreChange, trashmeterChange, width, height):
-        super().__init__(posX, posY, scoreChange, trashmeterChange, width, height)
+
+    #@brief calls base class constructor
+    #@param *args: as descriped in Item.py, passed as argument list
+    def __init__(self, *args):
+        super().__init__(*args)
