@@ -21,12 +21,13 @@ Now you can run the game using:
 
 ### Gameplay
 
-Jesus is the character on the Bridge. He is supposed to catch the trash which is swimming in the river but not the fish.
-If Jesus lets too much trash get past the bridge or if he catches too much fish the wast speedometer is moving towards the red area. When the speedometer reaches the maximum the game is over.
-However if he catches more trash, the speedometer is going towards the green are again.
-Controls
+Jesus is the character on the Bridge. His task is to catch the trash which is moving towards him. However he should not catch the fish.
+If Jesus lets too much trash get past the bridge or if he catches too many fish the wate-o-meter is moving towards the red area. When the waste-o-meter reaches the maximum the game is over.
+But he can also move the waste-o-meter towards the green area agin, when he catches trash.
 
-Jesus can be controlled via A and D or left_arrow and right_arrow on the keyboard.
+
+### Controls
+Jesus can be controlled via *A* and *D* or *left_arrow* and *right_arrow* on the keyboard.
 
 
 ### Authors
@@ -35,7 +36,7 @@ Jesus can be controlled via A and D or left_arrow and right_arrow on the keyboar
 - Layla Staschenuk
 - Marc Klinge
 
-We made this together for a software techniques class at HTWK Leipzig.
+We created this game together for a software techniques class at HTWK Leipzig.
 
 
 
